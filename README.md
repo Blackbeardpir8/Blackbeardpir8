@@ -1,96 +1,75 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="banner.png" alt="Deepak Yadav Banner" />
-</p>
-
 # 👋 Hi, I'm Deepak Yadav
 
-🚀 Aspiring Backend Developer | 💻 Python & Django Enthusiast | 🐳 DevOps Learner
+**Backend Developer | Python • Django • Flask | DevOps Learner**
+
+📍 India  
+📞 +91 7413913304 | 📧 deepakdk15yadav@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/deepak-yadav-backend-developer) | [GitHub](https://github.com/Blackbeardpir8) | [LeetCode](https://leetcode.com/u/Blackbeardpir/)
 
 ---
 
-## 🧠 About Me
+## 🎯 Objective
 
-- 🔭 I’m currently working on:
-  - 🚑 **RescueQR** – A smart emergency info app using Django, DRF, and QR codes.
-  - 🧾 **Medical Records App** – Upload and manage medical history & documents with preview.
-  - 📋 **Task Status Tracker** – Web app using Django + Celery + Redis + Kafka + Docker.
-
-- 🌱 I’m currently learning:
-  - ✅ Django Auth, JWT, Deployment
-  - ✅ Kafka, Celery, Redis
-  - ✅ DSA (Sorting, Graphs, DP, Trees)
-
-- 💬 Ask me about:
-  - Django REST Framework
-  - Dockerizing Django projects
-  - VPS deployment with Gunicorn & Nginx
-  - Celery + Redis + Kafka integration
+Proficient Backend Developer specializing in **Python**, **Django**, and **Flask** with a solid foundation in building scalable web applications. Experienced in integrating **DevOps tools** such as **Docker**, **Celery**, **Redis**, and **Kafka** for robust backend solutions. Committed to delivering responsive and reliable applications with strong collaboration and problem-solving skills.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Skills
 
-### 🆘 [RescueQR](https://github.com/deepakyadav-dev/rescueqr)
-> QR-based emergency app with medical info and contact access.
+**Languages & Frameworks**  
+- Python, Django, Flask, HTML, CSS, JavaScript, Bootstrap
 
-### 📄 [Medical Records App](https://github.com/deepakyadav-dev/medical-records)
-> Store, preview and update insurance & medical PDFs securely.
+**Databases & Tools**  
+- MySQL, PostgreSQL, SQLite, ORM
 
-### 📊 [Task Status Tracker](https://github.com/deepakyadav-dev/task-tracker)
-> Async background task system using Celery, Redis & Kafka.
+**DevOps & System Design**  
+- Docker, Redis, Celery, Kafka  
+- Git, GitHub, Postman, Locust  
+- OOP, DSA, REST APIs
 
----
-
-## 🎓 Certifications
-
-- Python for Everybody – University of Michigan (Coursera)
-- Django for Beginners – JustDjango
-- Docker Essentials – CodeAcademy
-- Kafka Fundamentals – Conduktor
+**Platforms**  
+- Windows, Linux
 
 ---
 
-## 📚 Learning Resources I'm Following
+## 📜 Certifications
 
-- [Django Docs](https://docs.djangoproject.com/)
-- [Real Python](https://realpython.com/)
-- [FreeCodeCamp DSA Playlist](https://www.youtube.com/c/Freecodecamp)
-- [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
----
-
-## 🧠 DSA Progress Tracker
-
-- ✅ Sorting Algorithms
-- ✅ Linked Lists
-- ✅ Stacks & Queues
-- ⏳ Trees & Graphs
-- ⏳ Dynamic Programming
-- ⏳ Hashing
+- ✅ **Scientific Computing with Python** – freeCodeCamp (2023)  
+- ✅ **Python Essentials 1 & 2** – Cisco Networking Academy (2024)  
+- ✅ **Decode Python with DSA** – Physics Wallah (2024)  
+- ✅ **Django & DRF** – CodeKeen (2025)
 
 ---
 
-## 🛠️ Tech Tools I Use
+## 🚀 Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+### 🌐 [Personal Portfolio](https://deepakyadav.pythonanywhere.com/)  
+Built with Flask, hosted on PythonAnywhere  
+- Responsive UI with HTML, CSS, JS  
+- Project showcase and skill highlight  
 
----
+### 💸 [Expense Tracker](https://expense-tracker-cj7a.onrender.com)  
+Django-based app for tracking personal expenses  
+- Secure auth, profile management  
+- Monitoring tools reduced debugging by 40%  
 
-## 📫 Let's Connect
+### 🏋️ [GYM Management System](https://gym-2axl.onrender.com)  
+Gym app with session auth, caching & logs  
+- 30% faster page load with DB optimization  
+- Clean interface with modern design
 
-- [GitHub](https://github.com/deepakyadav-dev)
-- [LinkedIn](https://linkedin.com/in/deepakyadav)
+### 🕒 Watch Auction  
+Real-time auction app with Django Channels + Celery  
+- Live notifications & e-receipt automation  
+- Elasticsearch for full-text search  
+- Performance-optimized for 500+ users  
 
----
 
 ## 📈 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakyadav-dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakyadav-dev&layout=compact&theme=tokyonight)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackbeardpir8&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbeardpir8&layout=compact&theme=tokyonight)
+
+---
+
+_Thanks for visiting my profile! Let’s build something awesome together._ 🚀
