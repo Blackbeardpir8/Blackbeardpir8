@@ -73,14 +73,10 @@ Proficient Backend Developer specializing in **Python**, **Django**, and **Flask
 
 ## 🧾 Certifications
 
-<details>
-
 - **Scientific Computing with Python** – freeCodeCamp (2023)
 - **Python Essentials 1 & 2** – Cisco Networking Academy (2024)
 - **Decode Python with DSA** – Physics Wallah (2024)
 - **Django & DRF** – CodeKeen (2025)
-
-</details>
 
 ---
 
