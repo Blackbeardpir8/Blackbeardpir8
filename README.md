@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="A_digital_graphic_design_banner_introduces_Deepak_.png" alt="Deepak Yadav Banner" />
+  <img src="banner.png" alt="Deepak Yadav Banner" />
 </p>
 
 # 👋 Hi, I'm Deepak Yadav
