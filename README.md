@@ -74,7 +74,6 @@ Proficient Backend Developer specializing in **Python**, **Django**, and **Flask
 ## 🧾 Certifications
 
 <details>
-  <summary>Click to expand</summary>
 
 - **Scientific Computing with Python** – freeCodeCamp (2023)
 - **Python Essentials 1 & 2** – Cisco Networking Academy (2024)
@@ -85,30 +84,12 @@ Proficient Backend Developer specializing in **Python**, **Django**, and **Flask
 
 ---
 
-## 🛤️ My Coding Journey
-
-- **2023**: Started learning Python, earned freeCodeCamp cert.
-- **2024**: Built production apps using Django & DRF, learned DevOps.
-- **2025**: System design, microservices architecture.
-- **Future Goals**: Cloud Architecture (AWS/K8s)
-
----
-
-## 📚 Currently Exploring
-
-- Microservices Architecture with Docker and Kubernetes  
-- Advanced Performance Optimization in Django  
-- AWS Cloud Services for Scalable Applications  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blackbeardpir8&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbeardpir8&layout=compact&theme=tokyonight" alt="languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blackbeardpir8&theme=tokyonight" alt="streak" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Blackbeardpir8&theme=react-dark" alt="graph" />
 </p>
 
 ---
